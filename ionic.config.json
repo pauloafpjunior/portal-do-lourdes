@@ -1,5 +1,7 @@
 {
-  "name": "lourdes-app",
-  "integrations": {},
+  "name": "Portal do Lourdes",
+  "integrations": {
+    "capacitor": {}
+  },
   "type": "angular"
 }
